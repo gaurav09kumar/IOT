@@ -1,0 +1,4 @@
+interface eth0
+static ip_address=ip_address/24
+static routers=default_gatway
+static domain_name_servers=8.8.8.8 8.8.4.4
